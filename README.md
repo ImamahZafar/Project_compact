@@ -7,3 +7,4 @@ The functionalities of the system include:<br />
   *Check Out Order<br />
   *Edit Profile<br /> 
   *Place an Order<br />
+  *Search for an item<br />
